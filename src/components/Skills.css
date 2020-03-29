@@ -1,0 +1,24 @@
+#skills{
+    background-color: lightslategrey;
+    width: 75%;
+    border-radius: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top:-2em;
+    padding-top: 2em;
+}
+.containerSkills{
+    display: flex;  
+    color: black;
+}
+.skillsH1{
+    margin:auto;
+    font-size: 2em;
+}
+.row{
+    display: flex;
+}
+.icons{
+    font-size:5em;
+    color:darkblue;
+}

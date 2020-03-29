@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/kari/static/css/main.434d099a.chunk.css",
+    "main.js": "/kari/static/js/main.fd8f5bab.chunk.js",
+    "main.js.map": "/kari/static/js/main.fd8f5bab.chunk.js.map",
+    "runtime-main.js": "/kari/static/js/runtime-main.52b5bad2.js",
+    "runtime-main.js.map": "/kari/static/js/runtime-main.52b5bad2.js.map",
+    "static/js/2.b2bb792d.chunk.js": "/kari/static/js/2.b2bb792d.chunk.js",
+    "static/js/2.b2bb792d.chunk.js.map": "/kari/static/js/2.b2bb792d.chunk.js.map",
+    "index.html": "/kari/index.html",
+    "precache-manifest.71d7498fb483c1cf84642646a8bd3583.js": "/kari/precache-manifest.71d7498fb483c1cf84642646a8bd3583.js",
+    "service-worker.js": "/kari/service-worker.js",
+    "static/css/main.434d099a.chunk.css.map": "/kari/static/css/main.434d099a.chunk.css.map",
+    "static/js/2.b2bb792d.chunk.js.LICENSE.txt": "/kari/static/js/2.b2bb792d.chunk.js.LICENSE.txt",
+    "static/media/Kari.jpg": "/kari/static/media/Kari.54b776e5.jpg",
+    "static/media/App.css": "/kari/static/media/Poppins-Regular.98a10b7e.woff",
+    "static/media/Project.jpg": "/kari/static/media/Project.f97a4d9f.jpg",
+    "static/media/Header.css": "/kari/static/media/mountain.1ad78cfc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52b5bad2.js",
+    "static/js/2.b2bb792d.chunk.js",
+    "static/css/main.434d099a.chunk.css",
+    "static/js/main.fd8f5bab.chunk.js"
+  ]
+}

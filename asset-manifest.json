@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kari/static/css/main.9826196d.chunk.css",
+    "main.css": "/kari/static/css/main.aad4d2b2.chunk.css",
     "main.js": "/kari/static/js/main.982215d3.chunk.js",
     "main.js.map": "/kari/static/js/main.982215d3.chunk.js.map",
     "runtime-main.js": "/kari/static/js/runtime-main.52b5bad2.js",
@@ -8,19 +8,19 @@
     "static/js/2.b2bb792d.chunk.js": "/kari/static/js/2.b2bb792d.chunk.js",
     "static/js/2.b2bb792d.chunk.js.map": "/kari/static/js/2.b2bb792d.chunk.js.map",
     "index.html": "/kari/index.html",
-    "precache-manifest.ac692f15223c50556796843346781b02.js": "/kari/precache-manifest.ac692f15223c50556796843346781b02.js",
+    "precache-manifest.9efb42be5c8919eb90e1c2410ef68663.js": "/kari/precache-manifest.9efb42be5c8919eb90e1c2410ef68663.js",
     "service-worker.js": "/kari/service-worker.js",
-    "static/css/main.9826196d.chunk.css.map": "/kari/static/css/main.9826196d.chunk.css.map",
+    "static/css/main.aad4d2b2.chunk.css.map": "/kari/static/css/main.aad4d2b2.chunk.css.map",
     "static/js/2.b2bb792d.chunk.js.LICENSE.txt": "/kari/static/js/2.b2bb792d.chunk.js.LICENSE.txt",
     "static/media/Kari.jpg": "/kari/static/media/Kari.54b776e5.jpg",
     "static/media/App.css": "/kari/static/media/Poppins-Regular.98a10b7e.woff",
     "static/media/Project.jpg": "/kari/static/media/Project.f97a4d9f.jpg",
-    "static/media/Header.css": "/kari/static/media/mountain.1ad78cfc.jpg"
+    "static/media/Header.css": "/kari/static/media/drilldown.8e7d1d02.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.52b5bad2.js",
     "static/js/2.b2bb792d.chunk.js",
-    "static/css/main.9826196d.chunk.css",
+    "static/css/main.aad4d2b2.chunk.css",
     "static/js/main.982215d3.chunk.js"
   ]
 }

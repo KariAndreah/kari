@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "23472fdeaa21d29026fff87160226aef",
+    "revision": "7402c99c417f4351e6eae1f3ab9c540f",
     "url": "/kari/index.html"
   },
   {
-    "revision": "4b1fa10e8b03a5019fbe",
-    "url": "/kari/static/css/main.9826196d.chunk.css"
+    "revision": "3a09b1b4de4cf937d051",
+    "url": "/kari/static/css/main.aad4d2b2.chunk.css"
   },
   {
     "revision": "0fc230c179d8369da3f4",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kari/static/js/2.b2bb792d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4b1fa10e8b03a5019fbe",
+    "revision": "3a09b1b4de4cf937d051",
     "url": "/kari/static/js/main.982215d3.chunk.js"
   },
   {
@@ -36,7 +36,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kari/static/media/Project.f97a4d9f.jpg"
   },
   {
-    "revision": "1ad78cfc6eaec2e414af8d00248d8eb1",
-    "url": "/kari/static/media/mountain.1ad78cfc.jpg"
+    "revision": "8e7d1d026a0d6e38999c9eb29ccb0a2b",
+    "url": "/kari/static/media/drilldown.8e7d1d02.jpg"
   }
 ]);

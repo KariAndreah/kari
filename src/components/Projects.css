@@ -1,5 +1,6 @@
 #projects{
-    color: #10073B;
+    color: black;
+    background-color: white;
 }
 .containerProjects{
     display:flex;
@@ -15,13 +16,10 @@
 .projectpic{
     width:300px;
     height:auto;
-    border: #562B75 solid 0.1em;
+    border: #B75562 solid 0.1em;
     border-radius: 3%;
     margin-top: 3em;   
 }
 p{
     text-align: justify;
-}
-.projectH1{
-    font-size: 3em;
 }

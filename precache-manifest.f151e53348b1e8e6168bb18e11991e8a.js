@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5a8874251b998662adb0cc6ce20b7463",
+    "revision": "51b7112a89f5e1de53d2fd2a7d387dad",
     "url": "/kari/index.html"
   },
   {
-    "revision": "382b0f4efbb9e1a19ee0",
+    "revision": "75900b13b3dcecbfe4ac",
     "url": "/kari/static/css/main.fffee515.chunk.css"
   },
   {
@@ -16,16 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kari/static/js/2.b2bb792d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "382b0f4efbb9e1a19ee0",
-    "url": "/kari/static/js/main.727d3898.chunk.js"
+    "revision": "75900b13b3dcecbfe4ac",
+    "url": "/kari/static/js/main.48197e38.chunk.js"
   },
   {
     "revision": "5f58dbbd8ba6706f698e",
     "url": "/kari/static/js/runtime-main.52b5bad2.js"
   },
   {
-    "revision": "54b776e56430e8a00334d2e30c00e454",
-    "url": "/kari/static/media/Kari.54b776e5.jpg"
+    "revision": "39305c32a9e741c43a31f3558edb214e",
+    "url": "/kari/static/media/Kari.39305c32.jpg"
   },
   {
     "revision": "98a10b7edfafa2f4ad52cfba378a9390",

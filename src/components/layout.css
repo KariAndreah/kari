@@ -16,10 +16,10 @@
     margin: auto;
 }
 .name{
-    font-size: max(6em, 55px); 
+    font-size: max(6vw, 55px); 
 }
 .job{
-    font-size: max(2.2em,25px);
+    font-size: max(3vw, 25px);
 }
 
 /* About */
@@ -33,7 +33,7 @@
 .containerAbout{
     display: flex;
     flex-wrap:wrap;
-    width:80%;
+    width:85%;
     margin:auto; 
     justify-content: space-around;
 }
@@ -59,7 +59,7 @@
 }
 .aboutP{
     margin-top: -1.5em;
-    font-size: 1em;
+    font-size: 1rem;
     text-align: left;
 }
 

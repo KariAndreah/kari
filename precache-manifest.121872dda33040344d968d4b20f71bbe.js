@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6a1eb55b86d5ec659e067632ef82ca3d",
+    "revision": "e52ec9286894d30c3df4aad62c4800bb",
     "url": "/kari/index.html"
   },
   {
-    "revision": "2b227d4444c61183d176",
-    "url": "/kari/static/css/main.434d099a.chunk.css"
+    "revision": "721de0cb71005224b02f",
+    "url": "/kari/static/css/main.af4bf0f5.chunk.css"
   },
   {
     "revision": "0fc230c179d8369da3f4",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kari/static/js/2.b2bb792d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2b227d4444c61183d176",
+    "revision": "721de0cb71005224b02f",
     "url": "/kari/static/js/main.fd8f5bab.chunk.js"
   },
   {

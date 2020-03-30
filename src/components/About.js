@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import './About.css';
 import pic from '../images/Kari.jpg';
 
 class About extends Component {
@@ -12,7 +11,7 @@ class About extends Component {
                     </div>
                     <div className='col2 aboutText'>
                         <h1 className='aboutH1'>About Me</h1>
-                        <p className="aboutP">I am a self-taught developer from Houston Texas."Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+                        <p className="aboutP">I am a self-taught developer from Houston Texas. I'm currently making my way though frontend technologies such as React, on my way towards full stack development. The internet has been my source of knowledge including the Odin Project, Udemy and YouTube. When I'm not programming you can find me writing jokes playing guitar, or riding my bike. </p>
                     </div>
                 </div>
             </div>

@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './Header.css';
+import './layout.css'
 
 class Header extends Component {
     render() {
@@ -7,8 +7,8 @@ class Header extends Component {
             <div id='home'>
                 <div className='containerName'>
                     <div>
-                    <h1 className='name'>Hello, I'm Kari Burt.</h1>
-                    <h2 className="job">Software Developer</h2>
+                        <h1 className='name'>Hello, I'm Kari Burt</h1>
+                        <h2 className="job">Software Developer</h2>
                     </div>
                 </div>
             </div>

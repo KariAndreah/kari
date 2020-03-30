@@ -1,8 +1,5 @@
 import React, { Component } from 'react';
-import './Skills.css'
 import { DiReact, DiCss3, DiGit, DiHtml5,DiJavascript1,} from "react-icons/di";
-
-
 
 
 

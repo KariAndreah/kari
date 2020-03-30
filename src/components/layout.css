@@ -21,6 +21,11 @@
 .job{
     font-size: max(3vw, 25px);
 }
+@media only screen and (max-width: 960px){	
+    #home{	
+        background-attachment:scroll;	
+    }
+}
 
 /* About */
 #about{

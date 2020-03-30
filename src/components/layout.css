@@ -20,6 +20,7 @@
 }
 .job{
     font-size: max(3vw, 25px);
+    margin-top: -1em;
 }
 @media only screen and (max-width: 960px){	
     #home{	
@@ -126,7 +127,6 @@ p{
 #contact{
     background: lightslategray;
     display: flex;
-
 }
 .contactH1{
     color: white;
